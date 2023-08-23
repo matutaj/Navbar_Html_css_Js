@@ -27,3 +27,9 @@ nav {
     background: #23232e;
     height: 8vh;
 }
+
+main {
+    background: url("bg.jpg") no-repeat center center;
+    background-size: cover;
+    height: 92vh;
+}
